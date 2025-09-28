@@ -1,5 +1,5 @@
 # MarketMate
-An application that collects basic items information and media, and then automatically uploads them as unique advertisements on eBay, Subito.it, Vinted, Facebook Marketplace, Wallop, etc.
+An application that collects basic items information and media, and then automatically uploads them as unique advertisements on eBay, Subito.it, Vinted, Facebook Marketplace, Wallapop, etc.
 
 ## What do i plan to implement:
 - [ ] cross-platform search
