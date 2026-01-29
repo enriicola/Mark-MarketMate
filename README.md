@@ -7,6 +7,7 @@ An application that collects basic items information and media, and then automat
 - [ ] cross-platform management (read, update, delete)
 - [ ] single platform for single listing management (read, update, delete)
 - [ ] local DB
+- [ ] using bun..
 - [ ] ...👷‍♂️
 - [ ] all the above things, but also for the real estate market
   - [ ] Subito.it immobiliare
